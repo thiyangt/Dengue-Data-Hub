@@ -12,7 +12,6 @@ Who are the people responsible for actually delivering the project if the propos
 -->
 
 
-This project breaks down into two parts: i) Data collection and ii) Data cleaning and development of the package
+This project breaks down into two parts: i) Data collection, ii) Data cleaning, and iii) Package development
 
-Thiyanga S. Talagala is the main author and maintainer of `Dengue Data Hub`. The team includes researchers from the Epidemiological Units of Sri Lanka, Indonesia, India and several other countries. Furthermore, BSc (Hons) Statistics Degree Students of Faculty of Applied Sciences, University of Sri Jayewardenepura, Sri Lanka.
-
+Thiyanga S. Talagala is the main author and maintainer of `Dengue Data Hub`. The team includes researchers from the Epidemiological Units of Sri Lanka, Indonesia, India and several other countries. In addition, BSc (Hons) Statistics Degree Students from the Faculty of Applied Sciences at the University of Sri Jayewardenepura in Sri Lanka will be involved in the project.

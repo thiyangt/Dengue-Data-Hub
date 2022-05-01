@@ -10,6 +10,17 @@ Covering the planning phase, this section should provide a relatively detailed p
  - [ ] Reporting framework
 -->
 
+The project itself breaks down into three distinct components:
+
+i) Data collection
+
+ii) Data wrangling
+
+iii) Package development
+
+iv) Documenting and writing blog posts, tutorials, Package vignettes.
+
+The project will run from July 1st, 2022, to December 1st, 2022. All the activities listed above can be performed in parallel.
 
 ## Technical delivery
 <!--
@@ -17,6 +28,8 @@ Covering the actual delivery of the project this section should provide at least
 
 Including target dates is really important as you need to be committed and the ISC need to have a means of tracking delivery
 -->
+
+The project will deliver an R package, website for the project and book, tutorials explaining the functionalities.
 
 ## Other aspects
 <!--
@@ -28,3 +41,5 @@ Covering non-technical activities like on-going publicity, paper preparation, di
  - [ ] UseR!
  - [ ] ISC meetings
 -->
+
+The group uses email and zoom as its main communication channels with weekly group meetings in place to check on progress and outstanding actions. Major achievements/milestones are typically shared at the UseR conference, blog, and Twitter.

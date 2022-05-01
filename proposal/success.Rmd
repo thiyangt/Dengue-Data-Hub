@@ -10,7 +10,7 @@ The project is succesful if an R package is available on CRAN and workflows and 
 What does success look like? 
 -->
 
-The project is finished when an R package is on CRAN that provides proposed functionalities and documentation, vignettes and blog posts advertise the functionality and tweets have informed users about it.
+The project is finished when an R package is on CRAN that provides proposed functionalities and documentation, vignettes and blog posts advertise the functionality, and tweets inform users about it.
 
 ## Measuring success
 <!-- 
@@ -22,18 +22,18 @@ How will we know when success is achieved, what markers can we use along the way
 "Dengue Data Hub" organisation, so that issues, forks, stars and commit messages can be tracked
 to see the project status
 
-* Regular reports to the R consortium will be provided
+* Regular reports to the R consortium will be provided.
 
-* Tweets, Linkedin will be used as social media platforms to inform the package. Retweets, shares, number of views will be used to evaluate user engagement and interest.
+* Tweets, Linkedin will be used as social media platforms to inform the package. Retweets, shares and the number of views will be used to evaluate user engagement and interest.
 
-* Google analytics of the "Dengue Data Hub" will also use as a measure.
+* Google Analytics of the "Dengue Data Hub" will also be used as a measure.
 
 ## Future work
 <!-- 
 How could this be extended / developed in the future by yourself and/or the community in general?
 -->
 
-This work will make it easier to add support for further spatial databases and external identifiers such as Google trend data, Google mobility reports, Apple mobility reports, Governmental identifiers, and Policy measures by World Health Organization (WHO).
+This work will make it easier to add support for further spatial databases and external identifiers such as Google trend data, Google mobility reports, Apple mobility reports, governmental identifiers, and Policy measures by the World Health Organization (WHO).
 
 ## Key risks
 <!-- 

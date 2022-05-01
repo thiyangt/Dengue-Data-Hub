@@ -17,12 +17,12 @@ the global burden of the disease.
 
 
 
-The risk of spreading dengue cases increases due to the rise in the population, changes in weather pattern, and improper waste management. To date, there is no specific treatment methodology to cure the infection. As a result, effective prevention methods are required to reduce the spread of the mosquito population. Earlier detection also helps to reduce the severity of the infection, and this may lead to a mitigation of the number of deaths in dengue. Therefore, understanding the epidemiological patterns of dengue around the world is important.
+The risk of spreading dengue cases increases due to the rise in the population, changes in weather patterns, and improper waste management. To date, there is no specific treatment methodology to cure the infection. As a result, effective prevention methods are required to reduce the spread of the mosquito population. Earlier detection also helps to reduce the severity of the infection, and this may lead to a mitigation of the number of deaths in dengue. Therefore, understanding the epidemiological patterns of dengue around the world is important.
 
 Many researchers struggle to find comprehensive and valid datasets for dengue research. On the other hand, those that become available are heavily anonymized and do not reflect the current trends. Yet, to our knowledge, no program exists that collects fine-grained dengue data from around the world, including demographics, environmental factors, and other exogenous variables that have become available. Researchers usually spend a lot of time establishing a database by gathering data. The goal of the Dengue Data Hub is to provide the research community with a **unified** dataset helpful for dengue research and reproducibility of research.
 
 
-There are few data packages in R related to Dengue data developed 
+There are a few data packages in R related to Dengue data developed 
 
 1. [colmozzie](https://cran.r-project.org/web/packages/colmozzie/index.html): Dengue Cases and Climate Variables in Colombo Sri Lanka
 
@@ -34,4 +34,4 @@ But at present, there is no unifying framework for the datasets. This proposal i
 
 - Create an R package to aggregate dengue data from several sources and share them in `tidy` format.
 
-- Create a tutorial and good documentation to use the "Dengue Data Hub" database interface.
+- Create tutorials and good documentation to use the "Dengue Data Hub" database interface.
