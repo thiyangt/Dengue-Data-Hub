@@ -1,8 +1,8 @@
 ---
-title: "`r proposal`"
-author: "`r author`"
-date: "`r Sys.Date()`"
-output: html_document
+title: "Dengue Data Hub"
+author: "Thiyanga S. Talagala"
+date: "30 April 2022"
+output: pdf_document
 ---
 
 ```{r setup, eval=TRUE, results='hide', echo=FALSE}
