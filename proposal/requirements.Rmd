@@ -1,12 +1,19 @@
 # Requirements
+
 <!-- 
 An idea of what is required to make the project actually happen
 -->
+
+The path to the solution is clear, and the implementation seems to be relatively straightforward. We have not identified other external factors that could impact this project.
 
 ## People
 <!--
 Who needs to be involved, what's the proposed structure, what will it take to get their involvement?
 -->
+
+Thiyanga S. talagala will lead the project: design and development of the package.
+
+BSc (Hons) Degree students and research assistants will involve in data collection and data cleaning and documenting the work.
 
 ## Processes
 <!-- 
@@ -28,7 +35,12 @@ Are there tools or tech that don't exist that will be produced to facilitate the
 
 -->
 
+We request US$ 2,000 for this project.
+
 ## Summary
 <!--
 A summary of the requirements that contextualises the costs
 -->
+
+- Data collection, cleaning and development of the package (US$ 1500)
+- Write a tutorial and polish documentation (US$ 500)

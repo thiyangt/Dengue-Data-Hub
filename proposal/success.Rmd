@@ -3,7 +3,7 @@
 Projects should have a definition of done that is measurable, and a thorough understanding going in of what the risks are to delivery 
 -->
 
-Workflows and case studies are documented in vignettes, book (using `bookdown`) and blog posts. 
+The project is succesful if an R package is available on CRAN and workflows and case studies are documented in vignettes, book (using `bookdown`) and blog posts. 
 
 ## Definition of done
 <!-- 
