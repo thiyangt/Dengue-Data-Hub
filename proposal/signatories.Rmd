@@ -5,18 +5,14 @@ This section provides the ISC with a view of the support received from the commu
 An optional section would be for R-Core signatories where changes to R are proposed.
 -->
 
+
 ## Project team
 <!-- 
 Who are the people responsible for actually delivering the project if the proposal gets accepted and are already signed up and rearing to go?
 -->
 
-## Contributors
-<!-- 
-Who are the people who have actively helped with this proposal but won't necessarily be on the core project team later?
--->
 
-## Consulted
-<!-- 
-Who has been given the opportunity to provide feedback on the proposal? This should include any R Consortium & ISC members who the proposal has been discussed with.
--->
+This project breaks down into two parts: i) Data collection and ii) Data cleaning and development of the package
+
+Thiyanga S. Talagala is the main author and maintainer of `Dengue Data Hub`. The team includes researchers from the Epidemiological Units of Sri Lanka, Indonesia, India and several other countries. Furthermore, BSc (Hons) Statistics Degree Students of Faculty of Applied Sciences, University of Sri Jayewardenepura.
 

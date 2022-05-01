@@ -3,20 +3,37 @@
 Projects should have a definition of done that is measurable, and a thorough understanding going in of what the risks are to delivery 
 -->
 
+Workflows and case studies are documented in vignettes, book (using `bookdown`) and blog posts. 
+
 ## Definition of done
 <!-- 
 What does success look like? 
 -->
+
+The project is finished when an R package is on CRAN that provides proposed functionalities and documentation, vignettes and blog posts advertise the functionality and tweets have informed users about it.
 
 ## Measuring success
 <!-- 
 How will we know when success is achieved, what markers can we use along the way 
 -->
 
+
+* The R package will be developed on a GitHub repository under the
+"Dengue Data Hub" organisation, so that issues, forks, stars and commit messages can be tracked
+to see the project status
+
+* Regular reports to the R consortium will be provided
+
+* Tweets, Linkedin will be used as social media platforms to inform the package. Retweets, shares, number of views will be used to evaluate user engagement and interest.
+
+* Google analytics of the "Dengue Data Hub" will also use as a measure.
+
 ## Future work
 <!-- 
 How could this be extended / developed in the future by yourself and/or the community in general?
 -->
+
+This work will make it easier to add support for further spatial databases and external identifiers such as Google trend data, Google mobility reports, Apple mobility reports, Governmental identifiers, and Policy measures by World Health Organization (WHO).
 
 ## Key risks
 <!-- 
@@ -28,3 +45,7 @@ What sort of things could come up that can delay or break the project?
  - [ ] Costs
 
 -->
+
+Risks that we can think of now include:
+
+- Data collection: cost and tools for data collection.
