@@ -10,26 +10,28 @@ It is important to cover:
  - [ ] Why it should be tackled
 -->
 
-Dengue is a mosquito-borne viral disease that has spread fast throughout the world, primarily in urban and semi-urban regions. More than one-third of the world's population lives in dengue-infested areas. The risk of spreading the dengue cases increases due to rise of population, changes in rainfall, improperly
-managed waste water. There is no specific treatment methodology to cure dengue infection. Hence, effective prevention methodologies
-reduce the spread of mosquito population and avoid mosquito bites. Earlier detection also helps to reduce
-the severity of the infection and this may lead to mitigate the number of deaths in dengue. Therefore, understanding
-the epidemiological patterns in dengue around the world is important.
+Dengue is a mosquito-borne viral disease that has spread fast throughout the world, primarily in urban and semi-urban regions. More than one-third of the world's population lives in dengue-infested areas. The most
+serious dengue incidences correspond to Central and South America, South-East Asia and
+Western Pacific regions. Asia represents approximately 70% of
+the global burden of the disease. 
 
-For this first we need to take some photos of medicinal plants.
 
-We will create a database and share the database through an R package. Researchers usually struggle and spend a lot of time to establish a database by gathering many leaf samples as raw data. By sharing our database we provide a training/test database to other researchers to evaluate their algorithm.  
 
-However, many researchers struggle to find
-comprehensive and valid datasets to test and evaluate their proposed techniques (Koch et al., 2017) and
-having a suitable dataset is a significant challenge itself. On one hand, many such datasets cannot be shared
-due to the privacy issues. On the other hand, those
-that become available are heavily anonymized and do
-not reflect the current trends, even though, the lack of
-traffic variety and attack diversity is evident in most
-of them. 
+The risk of spreading dengue cases increases due to the rise in the population, changes in weather pattern, and improper waste management. To date, there is no specific treatment methodology to cure the infection. As a result, effective prevention methods are required to reduce the spread of the mosquito population. Earlier detection also helps to reduce the severity of the infection, and this may lead to a mitigation of the number of deaths in dengue. Therefore, understanding the epidemiological patterns of dengue around the world is important.
 
-Yet, to our knowledge, no program exists that collects fine-grained Dengue data from around the world, including demographics, environmental factors, and other exogenous variables that have become available.
+Many researchers struggle to find comprehensive and valid datasets for dengue research. On the other hand, those that become available are heavily anonymized and do not reflect the current trends. Yet, to our knowledge, no program exists that collects fine-grained dengue data from around the world, including demographics, environmental factors, and other exogenous variables that have become available. Researchers usually spend a lot of time establishing a database by gathering data. The goal of the Dengue Data Hub is to provide the research community with a **unified** dataset helpful for dengue research and reproducibility of research.
 
-The goal of Dengue Data Hub is to provide the research community with a **unified** dataset helpful for dengue research.
 
+There are few data packages in R related to Dengue data developed 
+
+1. [colmozzie](https://cran.r-project.org/web/packages/colmozzie/index.html): Dengue Cases and Climate Variables in Colombo Sri Lanka
+
+2. [mozzie](https://github.com/thiyangt/mozzie): R package for weekly notified dengue cases in Sri Lanka
+
+3. [DISC](https://github.com/SMART-Research/DISC): Dataset containing information about weekly notified diseases reported by Ministry of Health, Nutrition and Indigenous Medicine in Sri Lanka.
+
+But at present, there is no unifying framework for the datasets. This proposal is to :
+
+- Create an R package to aggregate dengue data from several sources and share them in `tidy` format.
+
+- Create a tutorial and good documentation to use the "Dengue Data Hub" database interface.
