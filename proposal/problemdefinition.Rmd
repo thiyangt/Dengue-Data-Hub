@@ -10,14 +10,14 @@ It is important to cover:
  - [ ] Why it should be tackled
 -->
 
-Dengue is a mosquito-borne viral disease that has spread fast throughout the world, primarily in urban and semi-urban regions. More than one-third of the world's population lives in dengue-infested areas. The most
+Dengue is a mosquito-borne viral disease that has spread fast throughout the world, primarily in urban and semi-urban regions. More than one-third of the world's population lives in dengue-infected areas. The most
 serious dengue incidences correspond to Central and South America, South-East Asia and
 Western Pacific regions. Asia represents approximately 70% of
 the global burden of the disease. 
 
 
 
-The risk of spreading dengue cases increases due to the rise in the population, changes in weather patterns, and improper waste management. To date, there is no specific treatment methodology to cure the infection. As a result, effective prevention methods are required to reduce the spread of the mosquito population. Earlier detection also helps to reduce the severity of the infection, and this may lead to a mitigation of the number of deaths in dengue. Therefore, understanding the epidemiological patterns of dengue around the world is important.
+The risk of spreading dengue cases increases due to the rise in the population, changes in weather patterns, and improper waste management. To date, there is no specific treatment methodology to cure the infection. As a result, effective prevention methods are required to reduce the spread of the mosquito population. Early detection also helps to reduce the severity of the infection, and this may lead to a mitigation of the number of deaths in dengue. Therefore, understanding the epidemiological patterns of dengue around the world is important.
 
 Many researchers struggle to find comprehensive and valid datasets for dengue research. On the other hand, those that become available are heavily anonymized and do not reflect the current trends. Yet, to our knowledge, no program exists that collects fine-grained dengue data from around the world, including demographics, environmental factors, and other exogenous variables that have become available. Researchers usually spend a lot of time establishing a database by gathering data. The goal of the Dengue Data Hub is to provide the research community with a **unified** dataset helpful for dengue research and reproducibility of research.
 

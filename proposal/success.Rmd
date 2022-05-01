@@ -26,7 +26,7 @@ to see the project status
 
 * Tweets, Linkedin will be used as social media platforms to inform the package. Retweets, shares and the number of views will be used to evaluate user engagement and interest.
 
-* Google Analytics of the "Dengue Data Hub" will also be used as a measure.
+* Google Analytics of the "Dengue Data Hub" website will also be used as a measure.
 
 ## Future work
 <!-- 

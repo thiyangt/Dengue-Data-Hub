@@ -8,7 +8,7 @@ This is where the proposal should be outlined.
 At a high-level address what your proposal is and how it will address the problem identified. Highlight any benefits to the R Community that follow from solving the problem. This should be your most compelling section.
 -->
 
-Dengue fever has spread over tropical and subtropical regions of the world, wreaking havoc on daily life and work. To better control the spread of dengue fever, a number of critical decisions must be made in order to safeguard communities and economies around the world.  Data clearly play a vital role in effective decision-making. We will use a format similar to the `covid19` package in R. The proposed "Dengue Data Hub," like the "COVID19 DATA HUB," will contribute to epidemiological research.
+Dengue fever has spread over tropical and subtropical regions of the world, wreaking havoc on daily life and work. To better control the spread of dengue fever, a number of critical decisions must be made.  Data clearly play a vital role in effective decision-making. We will use a format similar to the `covid19` package in R. Similar to the "COVID19 DATA HUB", the proposed "Dengue Data Hub," will contribute to epidemiological research using the R programming language. This will motivate epidemiology researchers to utilize R to analyze their data.
 
 
 The information listed here will be included in the package. The structure is similar to the "COVID19 DATA HUB"^[Guidotti and Ardia, (2020). COVID-19 Data Hub. Journal of Open Source Software, 5(51), 2376. https://doi.org/10.21105/joss.02376]
@@ -32,7 +32,7 @@ Depending on project type the detail section should include:
 -->
 
 
-We will use a framework similar to "COVID-19 Hub Data", in the `COVID19` package in R. The proposed functionalities are as follows
+We will use a framework similar to "COVID-19 Hub Data", in the `COVID19` package in R. The proposed functionalities are as follows:
 
 Worldwide data by country
 
