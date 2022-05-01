@@ -8,7 +8,14 @@ This is where the proposal should be outlined.
 At a high-level address what your proposal is and how it will address the problem identified. Highlight any benefits to the R Community that follow from solving the problem. This should be your most compelling section.
 -->
 
+Dengue fever has spread over tropical and subtropical regions of the world, wreaking havoc on daily life and work. To better control the spread of dengue fever, a number of critical decisions must be made in order to safeguard communities and economies around the world.  Data clearly play a vital role in effective decision-making. We will use a format similar to the `covid19` package in R. The proposed "Dengue Data Hub" will be an another contribution to Epidemiological research such as "COVID19 DATA HUB".
 
+
+The information listed here will be included in the package. The structure is similar to the "COVID19 DATA HUB"^[Guidotti and Ardia, (2020). COVID-19 Data Hub. Journal of Open Source Software, 5(51), 2376. https://doi.org/10.21105/joss.02376]
+
+1. **Dengue variables: ** Dengue cases by week and month, Total population. The data will be available at different levels of granularity: i) administrative area of top-level; ii) states, regions, provinces, cantons; iii) cities, municipalities, districts.
+
+2. **Geographic information** suitable for data visualization and for interfacing with external databases (e.g. weather information, goe-located tweets)
 
 
 
@@ -27,7 +34,33 @@ Depending on project type the detail section should include:
 
 We will use a framework similar to "COVID-19 Hub Data", in the `COVID19` package in R. The proposed functionalities are as follows
 
-1. `dengue`
+Worldwide data by country
+
+```r
+`dengue`
+```
+
+Worldwide data by state
+
+```r
+dengue(level=2)
+```
+
+Provide data for specific countries by county/province
+
+```r
+## Example code
+dengue(c("Italy", "US"), level = 3)
+```
+
+Download the files in the folder "data"
+
+```r
+dir.create("data")
+x <- covid19(dir = "data")
+```
+
+In additon
 
 
 We will maintain a blog (using `blogdown`) and book (using `bookdown`) to teach how to work with the database interface, and document how to implement database connectors.
