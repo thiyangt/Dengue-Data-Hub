@@ -4,7 +4,10 @@
 An idea of what is required to make the project actually happen
 -->
 
-The path to the solution is clear, and the implementation seems to be relatively straightforward. We have not identified other external factors that could impact this project.
+
+The problem is very clear and evident; the solution path is too.
+There are no external requirements that have to be fulfilled to
+make this project actually happen.
 
 ## People
 <!--
@@ -13,12 +16,14 @@ Who needs to be involved, what's the proposed structure, what will it take to ge
 
 Thiyanga S. talagala will lead the project: design and development of the package.
 
-BSc (Hons) Degree students and research assistants will involve in data collection and data cleaning and documenting the work.
+BSc (Hons) Degree students and research assistants will be asked to be involved in data collection and data cleaning and documenting the work.
 
 ## Processes
 <!-- 
 What processes need to be put in place e.g. codes of conduct, regular ISC meetings, handover to the community at large?
 -->
+
+The new package `dengue` will be added to the the `Dengue Data Hub` GitHub organisation. The tutorials will be shared via github pages and ideally could be run on docker, rstudio.cloud, or netlify to make it easy for the community to use. The accomplishments will be documented and advertised on blog posts, Twitter and Linkedin. The entire project will be conducted within the open source community and components will be therefore be continuously available. 
 
 ## Tools & Tech
 <!--
@@ -28,6 +33,11 @@ Will cloud computing be used - if yes are there are necessary components that wi
 
 Are there tools or tech that don't exist that will be produced to facilitate the project?
 -->
+
+The Dengue Data Hub maintains all code in various GitHub repositories under [Dengue-Data-Hub](https://github.com/Dengue-Data-Hub). We will also use R-Studio cloud. We will use GitHub actions to systematically test on linux. We might perform ad-hoc tests for other OS when needed. 
+
+In the longer term the aim is to host interactive dengue atlas but that is out of scope at this stage.
+
 
 ## Funding
 <!-- 
